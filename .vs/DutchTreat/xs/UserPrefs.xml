@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D32E57F5-8390-45CA-BA2A-0A31E0A63380}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DutchTreat/Controllers/Views/App/Index.cshtml">
+    <Files>
+      <File FileName="DutchTreat/Startup.cs" Line="28" Column="70" />
+      <File FileName="DutchTreat/Program.cs" />
+      <File FileName="DutchTreat/wwwroot/index.html" />
+      <File FileName="DutchTreat/wwwroot/css/site.css" />
+      <File FileName="DutchTreat/wwwroot/js/index.js" Line="20" Column="30" />
+      <File FileName="DutchTreat/libman.json" />
+      <File FileName="DutchTreat/Controllers/AppController.cs" Line="11" Column="10" />
+      <File FileName="DutchTreat/Controllers/Views/App/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DutchTreat" expanded="True">
+            <Node name="DutchTreat" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="App" expanded="True">
+                    <Node name="Index.cshtml" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DutchTreat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
